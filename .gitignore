@@ -1,0 +1,15 @@
+## ignore all
+/*
+
+# except
+!/.gitignore
+!/README.md
+!/notes/
+/notes/*
+!/notes/*.pdf
+
+!/hw/
+/hw/*
+!/hw/*.pdf
+
+# only pushes the pdf
